@@ -28,6 +28,11 @@ streamlit run app.py
 in the streamlit app.
 
 
-Screenshots : 
+## Screenshots : 
+
+![alt text]([http://url/to/img.png](https://github.com/VamshiKrsna/code-eval/blob/main/assets/BetterAssmt1.jpg)
+![alt text]([http://url/to/img.png](https://github.com/VamshiKrsna/code-eval/blob/main/assets/BetterAssmt2.jpg)
+![alt text]([http://url/to/img.png](https://github.com/VamshiKrsna/code-eval/blob/main/assets/BetterAssmt3.jpg)
+
 
 
