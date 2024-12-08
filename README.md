@@ -11,10 +11,10 @@ Note : This project has a static analyzer and LLM based analyzer, however, strea
 git clone https://github.com/VamshiKrsna/code-eval/
 ```
 
-2. move into src directory :
+2. move into code-eval directory :
 
 ```
-cd src
+cd code-eval
 ```
 
 3. Run the following command in your terminal :
